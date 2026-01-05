@@ -1,8 +1,4 @@
-# TaskTool 
-<div align="center">
-High-performance, lightweight console task manager for Windows.
-
-</div>
+<h1>TaskTool - best process management tool for windows terminal</h1> 
 
 <hr>
 
